@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://drive.google.com/file/d/1hRzcTwALNx5wZ_tetePXgWThlY__aYB4/view?usp=sharing" width="600" height="300"/>
 </div>
 _____
+
 ### :woman_technologist: About Me :
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -43,5 +44,5 @@ _____
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
