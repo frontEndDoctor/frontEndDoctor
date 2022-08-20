@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - :telescope: I am a Software Engineer,currently designing and building  frontend for web applications. Also contributing technical content at https://freecodecamp.org
 - :seedling: Running a TechClinic at https://frontenddoctor.hashnode.dev/
 - 💬 Ask me about: Software Engineering, Data Science, Project Management ...
-- 🤔: When I'm not coding, I either play chess, see a movie or take a nap
+- 🤔Hobbies: When I'm not coding, I either play Chess, see a movie or take a nap
 - ⚡ Fun fact: I have a phobia for heights
 - 📫 How to reach me: wilsonmaybell@gmail.com
 
