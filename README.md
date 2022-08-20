@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 
 
 -  😄 Pronouns: She/Her
-- :telescope: I’m working as a Software Engineer designing and building  frontend for web applications. Also contributing technical content at freecodecamp.org
+- :telescope: I am a Software Engineer,currently designing and building  frontend for web applications. Also contributing technical content at https://freecodecamp.org
 - :seedling: Running a TechClinic at https://frontenddoctor.hashnode.dev/
 - 💬 Ask me about: Software Engineering, Data Science, Project Management ...
-- :video: When I'm not coding, I either play chess, see a movie or take a nap
+- 🤔: When I'm not coding, I either play chess, see a movie or take a nap
 - ⚡ Fun fact: I have a phobia for heights
 - 📫 How to reach me: wilsonmaybell@gmail.com
 
-<!-- - :mailbox:How to reach me:  -->
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
