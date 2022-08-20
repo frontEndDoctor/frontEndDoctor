@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 - :telescope: I’m working as a Software Engineer designing and building  frontend for web applications. Also contributing technical content at freecodecamp.org
 - :seedling: Running a TechClinic at https://frontenddoctor.hashnode.dev/
 - 💬 Ask me about: Software Engineering, Data Science, Project Management ...
-- :zap: When I'm not coding, I either play chess, see a movie or take a nap
+- :video: When I'm not coding, I either play chess, see a movie or take a nap
 - ⚡ Fun fact: I have a phobia for heights
+- 📫 How to reach me: wilsonmaybell@gmail.com
 
 <!-- - :mailbox:How to reach me:  -->
 
@@ -57,9 +58,6 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure"  alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>  
 </div>
----
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
