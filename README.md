@@ -36,11 +36,13 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer contributing to frontend for building web applications.
 
-- :seedling: Running a TechClinic
-
-- :zap: In my free time, I play chess, see a movie or take a nap.
+-  😄 Pronouns: She/Her
+- :telescope: I’m working as a Software Engineer designing and building  frontend for web applications. Also contributing technical content at freecodecamp.org
+- :seedling: Running a TechClinic at https://frontenddoctor.hashnode.dev/
+- 💬 Ask me about: Software Engineering, Data Science, Project Management ...
+- :zap: When I'm not coding, I either play chess, see a movie or take a nap
+- ⚡ Fun fact: I have a phobia for heights
 
 <!-- - :mailbox:How to reach me:  -->
 
@@ -52,7 +54,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure"  alt="Azure" width="40" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure"  alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>  
 </div>
+---
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
