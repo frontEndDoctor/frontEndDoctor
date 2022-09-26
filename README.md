@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/maybellobadoni">
+  <a href="https://www.linkedin.com/in/oluchiobadoni">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/frontEndDoctor">
