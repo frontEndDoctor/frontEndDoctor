@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Software Engineering, Data Science, Project Management ...
 - 🤔Hobbies: When I'm not coding, I either play Chess, see a movie or take a nap
 - ⚡ Fun fact: I have a phobia for heights
-- 📫 How to reach me: wilsonmaybell@gmail.com
+// - 📫 How to reach me: wilsonmaybell@gmail.com
 
 
 
