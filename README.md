@@ -42,13 +42,18 @@ Here are some ideas to get you started:
 
 
 -  😄 Pronouns: She/Her
-- :telescope: I am a Software Engineer,currently designing and building  frontend for web applications. Also contributing technical content at https://freecodecamp.org
-- :seedling: Running a TechClinic at https://frontenddoctor.hashnode.dev/
+- 🔭 I’m currently working on: NLP research in the intersections of computaional science and social science using social media discourse analysis
+- 🌱 I’m currently learning: Agentic AI
+- 👯 I’m looking to collaborate on: NLP Tasks, ML in Controlled Vehicles
+- 🤔 I’m looking for help with: Graduate roles, PHD
+- 💬 Ask me about : LLMs, NLP, Agentic AI, AI Safety and Ethics, Technical Writing, Program/Project Management, Fundraising  
+- :seedling: Running a blog at https://frontenddoctor.hashnode.dev/
 - 💬 Ask me about: Software Engineering, Data Science, Project Management ...
 - 🤔Hobbies: When I'm not coding, I either play Chess, see a movie or take a nap
 - ⚡ Fun fact: I have a phobia for heights
+-  📫 How to reach me: wilsonmaybell@gmail.com
   
-<!--  📫 How to reach me: wilsonmaybell@gmail.com -->
+
 
 
 
