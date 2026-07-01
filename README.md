@@ -17,7 +17,7 @@ I build AI systems that sit at the intersection of **language, vision, and real-
 
 ## 🚀 Featured Projects
 
-### 🕊️ UN Digital Peacekeepers
+### 🕊️ Agent_Trace (UN Digital Peacekeepers)
 AI system exploring how digital agents can support global governance, misinformation monitoring, and civic coordination in alignment with UN SDGs.
 
 ### 🧾 Engligbo (NLP System)
