@@ -1,6 +1,6 @@
 # Hi, I'm Mabel 👋
 
-**AI Engineer | Researcher | Builder of Applied AI Systems**
+*Responsible AI | Researcher | Builder of Applied AI Systems**
 
 I build AI systems that sit at the intersection of **language, vision, and real-world decision-making**, with a focus on civic tech, education, and global governance.
 
